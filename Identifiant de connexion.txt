@@ -5,5 +5,3 @@ FIRST NAME:Faraj
 NAME:CHENIKI
 PASSWORD: projet1
 
-Cordialement,
-CHENIKI Faraj.
