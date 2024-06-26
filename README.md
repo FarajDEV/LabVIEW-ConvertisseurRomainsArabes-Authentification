@@ -106,7 +106,7 @@ Le VI principal gère l'authentification et la sélection du mode de conversion.
 
 ---
 
-Merci de consulter le code source et le processus de développement sur [GitHub](https://github.com/votre-repo). Ce projet représente un engagement envers l'excellence technique et l'innovation continue.
+Merci de consulter le code source et le processus de développement sur [GitHub](https://github.com/FarajDEV/LabVIEW-ConvertisseurRomainsArabes-Authentification). Ce projet représente un engagement envers l'excellence technique et l'innovation continue.
 
 ---
 
